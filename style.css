@@ -1,0 +1,18 @@
+.container {
+    text-align: start;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-basis: 
+}
+
+.card {
+
+    font-size: 14px;
+}
+
+.imagem {
+    width: 300px;
+    height: 200px;
+    background-position: center;
